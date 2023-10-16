@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "H:/git/PCB_PhasedArray/sample/src/top.sv",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "H:/git/PCB_PhasedArray/sample/src/top.sv",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "H:/git/PCB_PhasedArray/sample/src/top.sv",
+    "InstLine" : 15,
+    "InstName" : "timer_instance",
+    "ModuleFile" : "H:/git/PCB_PhasedArray/sample/src/top.sv",
+    "ModuleLine" : 27,
+    "ModuleName" : "timer1"
+   }
+  ]
+ }
+]

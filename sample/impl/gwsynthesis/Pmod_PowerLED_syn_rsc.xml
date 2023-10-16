@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="32" Alu="27" Lut="59">
+    <SubModule name="timer_instance" Register="10" Alu="8" Lut="4"/>
+</Module>

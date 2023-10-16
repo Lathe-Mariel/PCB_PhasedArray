@@ -1,0 +1,32 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\src\top.sv'
+Compiling module 'top'("C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\src\top.sv":1)
+Compiling module 'timer1'("C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\src\top.sv":68)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 9("C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\src\top.sv":82)
+WARN  (EX3791) : Expression size 12 truncated to fit in target size 11("C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\src\top.sv":39)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 11("C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\src\top.sv":44)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 11("C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\src\top.sv":46)
+WARN  (EX3791) : Expression size 12 truncated to fit in target size 11("C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\src\top.sv":53)
+WARN  (EX3791) : Expression size 12 truncated to fit in target size 11("C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\src\top.sv":55)
+WARN  (EX3791) : Expression size 9 truncated to fit in target size 8("C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\src\top.sv":62)
+NOTE  (EX0101) : Current top module is "top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\impl\gwsynthesis\Pmod_PowerLED.vg" completed
+[100%] Generate report file "C:\Git\Pmod\Pmod_PLED\sample\Pmod_PowerLED\impl\gwsynthesis\Pmod_PowerLED_syn.rpt.html" completed
+GowinSynthesis finish
