@@ -2,8 +2,8 @@ GowinSynthesis start
 Running parser ...
 Analyzing Verilog file 'H:\git\PCB_PhasedArray\sample\src\top.sv'
 Compiling module 'top'("H:\git\PCB_PhasedArray\sample\src\top.sv":1)
-Compiling module 'timer1'("H:\git\PCB_PhasedArray\sample\src\top.sv":27)
-WARN  (EX3791) : Expression size 15 truncated to fit in target size 14("H:\git\PCB_PhasedArray\sample\src\top.sv":41)
+Compiling module 'timer1'("H:\git\PCB_PhasedArray\sample\src\top.sv":29)
+WARN  (EX3791) : Expression size 15 truncated to fit in target size 14("H:\git\PCB_PhasedArray\sample\src\top.sv":43)
 NOTE  (EX0101) : Current top module is "top"
 [5%] Running netlist conversion ...
 Running device independent optimization ...

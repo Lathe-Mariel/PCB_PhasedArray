@@ -9,10 +9,10 @@
   "SubInsts" : [
    {
     "InstFile" : "H:/git/PCB_PhasedArray/sample/src/top.sv",
-    "InstLine" : 15,
+    "InstLine" : 16,
     "InstName" : "timer_instance",
     "ModuleFile" : "H:/git/PCB_PhasedArray/sample/src/top.sv",
-    "ModuleLine" : 27,
+    "ModuleLine" : 29,
     "ModuleName" : "timer1"
    }
   ]

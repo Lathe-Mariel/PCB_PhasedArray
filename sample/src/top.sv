@@ -2,6 +2,7 @@ module top(
 input wire clk,
 input wire sw,
 output logic speaker1,
+output logic _speaker1,
 output logic led1
 );
 
@@ -15,6 +16,7 @@ logic overflow;
 timer1 timer_instance(clk, overflow);
 
 assign led1 = speaker1;
+assign _speaker1 = ~speaker1;
 
 always @(posedge overflow)begin
   if(sw)begin
